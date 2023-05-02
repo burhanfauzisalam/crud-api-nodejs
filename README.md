@@ -5,6 +5,7 @@ Basic code to make CRUD using NodeJS (express, mongodb)
 # FIRST YOU MUST DO
 
 npm install
+
 on your terminal or git bash
 
 # HOW TO CONNECT WITH MONGODB
