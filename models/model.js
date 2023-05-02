@@ -8,6 +8,7 @@ const dataSchema = new mongoose.Schema({
   password: {
     required: true,
     type: String,
+    select: false,
   },
   email: {
     required: true,
